@@ -16,7 +16,6 @@ California housing dataset with demographic and geographic features.
 LightGBM Regressor
 
 ## Results
-RMSE: ...
-R2 Score: 
+R2 Score: 0.83
 
 
